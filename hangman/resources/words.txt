@@ -1,0 +1,7 @@
+angular
+java
+python
+svelte
+next
+react
+hibernate
